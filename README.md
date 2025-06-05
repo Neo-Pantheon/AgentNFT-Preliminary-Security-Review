@@ -2,7 +2,7 @@
 
 **Contract:** Agent.sol    
 **Review Date:** June 5, 2025      
-**Security Researcher:** Updated Analysis      
+**Security Researcher:** Pavon Dunbar        
 **Solidity Version:** 0.8.26    
 **Report Type:** Comprehensive Security Analysis with Code Fixes    
 
