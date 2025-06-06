@@ -940,9 +940,9 @@ This security assessment provides **maximum confidence** for enterprise deployme
 
 ### **Contact Information**
 
-📧 **Email:** pavon@devolvedai.com 
-📞 **Phone:** 1-661-454-8052   
-🌐 **Website:** www.devolvedai.com
+📧 **Email:** pavon@devolvedai.com   
+📞 **Phone:** 1-661-454-8052     
+🌐 **Website:** www.devolvedai.com  
 
 **Report Details:**
 - **Report ID:** NPT-ASV-AGT-0625
